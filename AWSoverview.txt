@@ -20,6 +20,10 @@ What is Cloud Computing?
 - the on demand delivery of computer power, db storage, applications, and other IT resources through a cloud services platform via the internet with pay as you go pricing. Provides rapid access to flexible and low cost IT resources 
 
 
+6 ADVANTAGES OF CLOUD COMPUTING
+-------------------------------
+
+1. 
 
 
 
